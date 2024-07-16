@@ -1,0 +1,181 @@
+[
+    {
+        "id": 1,
+        "img":"dish1.jpg",
+        "name":"Plant based avocado protein meal",
+        "description":"Its a plant Based avocado meal with 2 varieties of greens, which is spinach and ampalaya. With the addition of friend fresh sliced potatoes and chicken peas",
+        "ingredients":["Sugar",
+            "Salt", 
+            "Ampalaya", 
+            "Potatoes", 
+            "Half of Medium Sized Avocado", 
+            "Chicken Peas 1/2 Bag", 
+            "Spinach"
+        ],
+        "process":"Wash and chop spinach and ampalaya. Then Peel and slice potatoes and Scoop out and slice avocado. After that, Heat a pan over medium heat add sugar and salt to taste. Saute spinach and ampalaya until tender and Add potatoes and chicken peas, cook until potatoes are golden brown lastly, gently add avocado slices, cook for 1-2 minutes until warmed through."
+    },
+    {
+        "id": 2,
+        "img": "dish2.jpg",
+        "name": "Soft tofu meal with spinach leaves, brown rice",
+        "description": "Enjoy a wholesome and nutritious meal featuring soft tofu complemented by vibrant spinach leaves and hearty brown rice. This dish offers a blend of textures and flavors, perfect for a satisfying and healthy meal option.",
+        "ingredients": [
+            "Soft tofu",
+            "Fresh spinach leaves",
+            "Brown rice",
+            "Soy sauce",
+            "Sesame oil",
+            "Garlic cloves",
+            "Ginger",
+            "Green onions",
+            "Vegetable broth or water",
+            "Salt and pepper to taste"
+        ],
+        "process": "Rinse brown rice under cold water. Dice garlic cloves, ginger, and green onions. Cut tofu into cubes. Wash spinach leaves thoroughly. Cook brown rice in vegetable broth or water until tender. In a skillet, heat sesame oil, sauté garlic and ginger. Add tofu cubes, cook until browned. Stir in soy sauce, then add spinach leaves, cook until wilted. Serve tofu and spinach mixture over cooked brown rice. Garnish with green onions. Season with salt and pepper."
+    },
+    {
+        "id": 3,
+        "img": "dish3.jpg",
+        "name": "Bite size cucumber, ampalaya, papaya, and cauliflower",
+        "description": "Enjoy a refreshing and nutritious bite-sized salad featuring crunchy cucumber, bitter ampalaya, sweet papaya, and tender cauliflower. This dish offers a delightful mix of flavors and textures, perfect as a light and healthy snack or side dish.",
+        "ingredients": [
+            "Cucumber, cut into bite-sized pieces",
+            "Ampalaya (bitter gourd), thinly sliced",
+            "Ripe papaya, cubed",
+            "Cauliflower florets, blanched",
+            "Cherry tomatoes, halved (optional)",
+            "Red onion, thinly sliced (optional)",
+            "Fresh parsley or cilantro, chopped (for garnish)",
+            "Lemon or lime juice, for dressing",
+            "Salt and pepper to taste"
+        ],
+         "process": "Prepare all vegetables by washing and cutting them into bite-sized pieces. Blanch cauliflower florets in boiling water for 2-3 minutes, then drain and rinse with cold water. In a large bowl, combine cucumber, ampalaya, papaya, blanched cauliflower, cherry tomatoes, and red onion (if using). Drizzle with lemon or lime juice. Season with salt and pepper to taste. Garnish with chopped parsley or cilantro. Toss gently to combine. Serve chilled or at room temperature."
+    },
+    {
+        "id": 4,
+        "img": "dish4.jpg",
+        "name": "Salmon with spinach and tapioca sauce",
+        "description": "Indulge in a savory dish featuring tender salmon paired with nutritious spinach and a flavorful tapioca sauce. This recipe combines rich flavors with wholesome ingredients, creating a satisfying meal that is both delicious and nourishing.",
+        "ingredients": [
+            "Salmon fillets",
+            "Fresh spinach leaves",
+            "Tapioca pearls",
+            "Coconut milk",
+            "Garlic, minced",
+            "Ginger, grated",
+            "Red chili flakes (optional, for heat)",
+            "Lime juice",
+            "Salt and pepper to taste",
+            "Fresh cilantro or parsley, chopped (for garnish)"
+        ],
+        "process": "Prepare tapioca pearls according to package instructions. In a saucepan, heat coconut milk over medium heat. Add minced garlic, grated ginger, and red chili flakes (if using), sauté until fragrant. Add cooked tapioca pearls, stirring constantly. Season with salt and pepper. In a separate pan, sear salmon fillets until cooked through. Serve salmon over a bed of sautéed spinach. Top with tapioca sauce. Garnish with chopped cilantro or parsley and a squeeze of lime juice."
+    },
+    {
+        "id": 5,
+        "img": "dish5.jpg",
+        "name": "Vegetarian medium protein meal with chicken peas and sweet potato",
+        "description": "A balanced vegetarian meal featuring protein-rich chicken peas and nutrient-dense sweet potatoes, perfect for a hearty and wholesome meal.",
+        "ingredients": ["Chicken peas", "Sweet potato", 
+            "Olive oil", 
+            "Salt", 
+            "Pepper", 
+            "Garlic powder"
+        ],
+        "process": "Preheat the oven to 400°F (200°C). Peel and cube the sweet potatoes. Toss the sweet potato cubes in olive oil, salt, pepper, and garlic powder. Spread the sweet potatoes on a baking sheet and roast for 25-30 minutes until tender and golden brown. While the sweet potatoes are roasting, rinse and drain the chicken peas. In a large skillet, heat some olive oil over medium heat. Add the chicken peas and sauté for 5-7 minutes until heated through and slightly crispy. Combine the roasted sweet potatoes and sautéed chicken peas in a serving bowl. Serve warm and enjoy your vegetarian medium protein meal."
+    },
+    {
+        "id": 6,
+        "img": "dish6.jpg",
+        "name": "Rainbow plant based meal",
+        "description": "A vibrant and colorful plant-based meal packed with a variety of fresh vegetables, offering a delightful and nutritious dining experience.",
+        "ingredients": ["Red bell pepper", 
+            "Yellow bell pepper", 
+            "Green bell pepper", 
+            "Purple cabbage", 
+            "Carrots", 
+            "Cherry tomatoes", 
+            "Olive oil",
+            "Salt", 
+            "Pepper"
+        ],
+        "process": "Wash and chop all the vegetables into bite-sized pieces. Heat olive oil in a large skillet over medium heat. Add the chopped vegetables to the skillet and sauté for 10-12 minutes until tender yet crisp. Season with salt and pepper to taste. Serve the sautéed vegetables warm, arranged in a rainbow pattern for a visually appealing dish."
+    },
+    {
+        "id": 7,
+        "img": "dish7.jpg",
+        "name": "Plant based protein packed meal",
+        "description": "A hearty and filling plant-based meal rich in protein, featuring a blend of legumes and vegetables to keep you energized and satisfied.",
+        "ingredients": ["Lentils", 
+            "Chickpeas", 
+            "Black beans", 
+            "Quinoa", 
+            "Spinach", 
+            "Olive oil", 
+            "Salt", 
+            "Pepper", 
+            "Lemon juice"
+        ],
+        "process": "Cook the quinoa according to package instructions. Rinse and drain the lentils, chickpeas, and black beans. In a large skillet, heat olive oil over medium heat. Add the lentils, chickpeas, and black beans to the skillet and sauté for 5-7 minutes until heated through. Add the spinach and cook until wilted. Combine the cooked quinoa and sautéed legumes in a serving bowl. Season with salt, pepper, and a squeeze of lemon juice. Serve warm and enjoy your protein-packed plant-based meal."
+    },
+    {
+        "id": 8,
+        "img": "dish8.jpg",
+        "name": "Fried sweet potato with greens and chicken peas",
+        "description": "A delightful dish featuring crispy fried sweet potatoes paired with fresh greens and protein-rich chicken peas, offering a perfect balance of flavors and textures.",
+        "ingredients": ["Sweet potato", 
+            "Chicken peas", 
+            "Spinach", 
+            "Olive oil", 
+            "Salt", 
+            "Pepper", 
+            "Garlic powder"
+        ],
+        "process": "Peel and slice the sweet potatoes into thin rounds. Heat olive oil in a large skillet over medium heat. Fry the sweet potato slices until golden brown and crispy. Remove from the skillet and drain on paper towels. In the same skillet, add the chicken peas and sauté for 5-7 minutes until heated through. Add the spinach and cook until wilted. Combine the fried sweet potatoes, sautéed chicken peas, and spinach in a serving bowl. Season with salt, pepper, and garlic powder to taste. Serve warm and enjoy your fried sweet potato with greens and chicken peas."
+    },
+    {
+        "id": 9,
+        "img": "dish9.jpg",
+        "name": "Spiral delight with fried potato",
+        "description": "A fun and delicious dish featuring spiralized vegetables and crispy fried potatoes, perfect for a delightful and nutritious meal.",
+        "ingredients": ["Zucchini", 
+            "Carrots", 
+            "Sweet potato", 
+            "Olive oil", 
+            "Salt", 
+            "Pepper", 
+            "Garlic powder"
+        ],
+        "process": "Spiralize the zucchini, carrots, and sweet potato. Heat olive oil in a large skillet over medium heat. Add the spiralized vegetables to the skillet and sauté for 5-7 minutes until tender. Season with salt, pepper, and garlic powder to taste. In a separate skillet, heat more olive oil and fry the sweet potato slices until golden brown and crispy. Remove from the skillet and drain on paper towels. Combine the sautéed spiralized vegetables and fried potatoes in a serving bowl. Serve warm and enjoy your spiral delight with fried potato."
+    },
+    {
+        "id": 10,
+        "img": "dish10.jpg",
+        "name": "Protein delight with tofu, sweet potato and fried rice",
+        "description": "A delicious and protein-rich meal featuring tofu, sweet potatoes, and fried rice, offering a satisfying and nutritious dining experience.",
+        "ingredients": ["Tofu", 
+            "Sweet potato", 
+            "Cooked rice", 
+            "Soy sauce", 
+            "Olive oil", 
+            "Salt", 
+            "Pepper", 
+            "Garlic powder"
+        ],
+        "process": "Press and cube the tofu. Peel and cube the sweet potatoes. Heat olive oil in a large skillet over medium heat. Fry the tofu cubes until golden brown and crispy. Remove from the skillet and set aside. In the same skillet, add more olive oil and fry the sweet potato cubes until tender and golden brown. Remove from the skillet and set aside. In the same skillet, add more olive oil and fry the cooked rice until slightly crispy. Add the tofu and sweet potatoes back to the skillet. Season with soy sauce, salt, pepper, and garlic powder to taste. Serve warm and enjoy your protein delight with tofu, sweet potato, and fried rice."
+    },
+    {
+        "id": 11,
+        "img": "dish11.jpg",
+        "name": "Fruits harmony with avocado, dragon fruit and many more",
+        "description": "A refreshing and colorful fruit salad featuring a harmonious blend of avocado, dragon fruit, and other fresh fruits, perfect for a light and healthy meal.",
+        "ingredients": ["Avocado", 
+            "Dragon fruit", 
+            "Mango", 
+            "Pineapple",
+            "Strawberries", 
+            "Blueberries", 
+            "Lemon juice"
+        ],
+        "process": "Peel and cube the avocado, dragon fruit, and mango. Peel and core the pineapple, then cut into bite-sized pieces. Hull and slice the strawberries. In a large mixing bowl, combine the avocado, dragon fruit, mango, pineapple, strawberries, and blueberries. Squeeze fresh lemon juice over the fruit and toss gently to combine. Serve immediately and enjoy your fruits harmony."
+    }
+]

@@ -1,0 +1,229 @@
+
+.about-us__header {
+    padding: 9rem 2rem;
+    background: url('../Assets/about-us.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.about-us__title {
+    color: white;
+    font-size: 2rem;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+.about-us__body {
+    padding: 5rem 2rem;
+}
+
+.about-us__content-wrapper {
+    max-width: 1100px;
+    margin: auto;
+}
+
+.about-us__description-wrapper {
+    text-align: center;
+}
+
+.about-us__description {
+    font-size: 1.1rem;
+}
+
+.about-us__card-wrapper {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.about-us__card-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--color-green);
+}
+
+.about-us__card-subtitle {
+    font-size: 1rem;
+    font-weight: 500;
+    color: rgb(99, 98, 98);
+}
+
+.about-us__cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-top: 50px;
+    gap: 30px;
+}
+
+.about-us__card {
+    padding: 1.2rem 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+    transition: all 0.5s ease;
+}
+
+.about-us__card:hover {
+    box-shadow: 0 0 8px 0 rgba(30, 139, 3, 0.692);
+}
+
+.about-us__card-icon {
+    font-size: 1.8rem;
+    color: var(--color-green);
+}
+
+.about-us__card-description {
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--color-green);
+}
+
+.about-us__gallery-wrapper {
+    display: grid;
+    grid-template-columns:  1fr 1fr 1fr;
+    max-width: 700px;
+    margin: 50px auto;
+    gap: 10px;
+}
+
+.about-us__img-wrapper {
+    background: green;
+}
+
+.img1 {
+    grid-column: 1/2;
+    grid-row: 1/3;
+}
+
+.img2 {
+    grid-column: 2/3;
+}
+
+.img3 {
+    grid-column: 3/4;
+}
+
+.img4 {
+    grid-column: 2/4;
+}
+
+
+/* MEDIA QUERIES */
+@media screen and (min-width: 769px) and (max-width: 999px) {
+    .about-us__description {
+        font-size: 1rem;
+    }
+
+    .about-us__card-title {
+        font-size: 1.3rem;
+    }
+
+    .about-us__card-subtitle {
+        font-size: 1rem;
+        font-weight: 400;
+        color: rgb(99, 98, 98);
+    }
+
+    .about-us__cards {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        margin-top: 50px;
+        gap: 15px;
+    }
+
+    .about-us__card {
+        gap: 10px;
+    }
+
+    .about-us__card-icon {
+        font-size: 1.5rem;
+    }
+    
+    .about-us__card-description {
+        font-size: 0.9rem;
+    }
+}
+
+
+@media screen and (min-width: 600px) and (max-width: 768px) {
+    .about-us__description {
+        font-size: 1rem;
+    }
+
+    .about-us__card-title {
+        font-size: 1.3rem;
+    }
+
+    .about-us__card-subtitle {
+        font-size: 0.9rem;
+        font-weight: 400;
+        color: rgb(99, 98, 98);
+    }
+
+    .about-us__cards {
+        display: grid;
+        grid-template-columns:1fr 1fr;
+        margin-top: 50px;
+        gap: 15px;
+    }
+
+    .about-us__card {
+        gap: 10px;
+    }
+
+    .about-us__card-icon {
+        font-size: 1.5rem;
+    }
+    
+    .about-us__card-description {
+        font-size: 0.9rem;
+    }
+}
+
+
+@media screen and (max-width: 599px) {
+    .about-us__title {
+        font-size: 1.8rem;
+    }
+
+    .about-us__description {
+        font-size: 0.9rem;
+    }
+
+    .about-us__card-title {
+        font-size: 1.2rem;
+    }
+
+    .about-us__card-subtitle {
+        font-size: 0.9rem;
+        font-weight: 400;
+        color: rgb(99, 98, 98);
+    }
+
+    .about-us__cards {
+        display: grid;
+        grid-template-columns:1fr;
+        margin-top: 50px;
+        gap: 15px;
+    }
+
+    .about-us__card {
+        gap: 10px;
+    }
+
+    .about-us__card-icon {
+        font-size: 1.3rem;
+    }
+    
+    .about-us__card-description {
+        font-size: 0.9rem;
+    }
+}
+
+

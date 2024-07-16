@@ -1,0 +1,56 @@
+.dish-card {
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    padding: 0.5rem 0.5rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.dish-card:hover {
+    box-shadow: 0 0 10px 0 rgb(74, 124, 89);
+}
+
+.dish-card__img {
+    height: 260px;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.dish-card__body {
+    padding: 0rem 0.5rem;
+    padding-top: 0.3rem;
+    padding-bottom: 1rem;
+    word-wrap: break-word;
+}
+
+.dish-card__name {
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+
+/* MEDIA QURIES */
+
+@media screen and (min-width: 769px) and (max-width: 999px) {
+    .dish-card__name {
+        font-size: 1rem;
+    }    
+}
+
+
+
+@media screen and (min-width: 600px) and (max-width: 768px) {
+    .dish-card__name {
+        font-size: 0.9rem;
+    }    
+}
+
+
+
+
+@media screen and (max-width: 599px) {
+    .dish-card__name {
+        font-size: 0.9rem;
+    }  
+}

@@ -1,0 +1,124 @@
+.dishInfo {
+    padding: 10rem 2rem;
+}
+
+.dishInfo__content-wrapper {
+    max-width: 1000px;
+    margin-inline: auto;
+    display: flex;
+    gap: 5rem;
+}
+
+.dishInfo__dish-img {
+    height: 400px;
+    width: 400px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.dishInfo__details-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.dishInfo__dish-name {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: green;
+}
+
+.dishInfo__details-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.dishInfo__dish-details {
+    font-size: 0.99rem;
+    font-weight: 400;
+    color: rgb(68, 68, 68);
+}
+
+/* MEDIA QUERIES */
+
+@media screen and (min-width: 769px) and (max-width: 999px) {
+    .dishInfo__content-wrapper {
+        gap: 3rem;
+    }
+
+    .dishInfo__dish-img {
+        height: 350px;
+        width: 350px;
+    }
+
+    .dishInfo__dish-name {
+        font-size: 1.3rem;
+    }
+    
+    .dishInfo__details-title {
+        font-size: 1rem;
+    }
+    
+    .dishInfo__dish-details {
+        font-size: 0.9rem;
+    }
+}
+
+
+
+@media screen and (min-width: 600px) and (max-width: 768px) {
+    .dishInfo__content-wrapper {
+        display: flex;
+        flex-direction: column;
+        gap: 3rem;
+        align-items: center;
+    }
+
+    .dishInfo__dish-img {
+        height: 350px;
+        width: 350px;
+    }
+
+    .dishInfo__dish-name {
+        font-size: 1.2rem;
+    }
+    
+    .dishInfo__details-title {
+        font-size: 1rem;
+    }
+    
+    .dishInfo__dish-details {
+        font-size: 0.9rem;
+    }
+}
+
+
+
+
+@media screen and (max-width: 599px) {
+    .dishInfo__content-wrapper {
+        display: flex;
+        flex-direction: column;
+        gap: 3rem;
+        align-items: center;
+    }
+
+    .dishInfo__dish-img {
+        height: 310px;
+        width: 310px;
+    }
+
+    .dishInfo__dish-name {
+        font-size: 1.2rem;
+    }
+    
+    .dishInfo__details-title {
+        font-size: 1rem;
+    }
+    
+    .dishInfo__dish-details {
+        font-size: 0.9rem;
+    }
+}
+
+

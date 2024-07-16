@@ -1,0 +1,22 @@
+.social-icons__link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    width: 40px;
+    background: white;
+    color: rgb(0, 90, 0);
+    border-radius: 50%;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.social-icons__link:hover {
+    border: 1px solid white;
+    background: transparent;
+    color: white;
+}
+
+.social-icons__icon {
+    font-size: 1.2rem;
+}
